@@ -1,1 +1,14 @@
-/venv
+# виртуальное окружение
+venv/
+
+# кеши Python
+__pycache__/
+*.py[cod]
+
+# локальные IDE-настройки
+.vscode/
+.idea/
+
+# прочее
+.DS_Store
+.env
